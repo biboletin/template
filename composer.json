@@ -1,0 +1,19 @@
+{
+    "name": "biboletin/template",
+    "description": "simple template engine",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Biboletin\\Template\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "biboletin",
+            "email": "shady_fan@abv.bg"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
